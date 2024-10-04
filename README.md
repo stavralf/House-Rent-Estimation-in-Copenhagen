@@ -2,7 +2,7 @@
 
 ## About
 We collect information from a popular Housing Portal in Copenhagen. Then, we build a linear regression model which incorporates various apartment traits and finally provides an estimation of the expected monthly rent. 
-Variables selected for the performing predictions are: Size, Neighborhood, Number of Rooms, Balcony. Given that, our model is able to provide an estimation for the expected apartment rent, while grasping into consideration
+Variables selected for the performing predictions are: Size, Neighborhood, Number of Rooms, Balcony. Given that, our model is able to provide an estimation for the expected apartment rent while grasping into consideration
 the majority of the advertised apartments for rent in Copenhagen.
 
 ## Overview
